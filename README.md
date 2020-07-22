@@ -8,7 +8,7 @@ The font is licensed under the [SIL Open Font License](../blob/master/LICENSE). 
 Link this stylesheet: `https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts/fonts.css` in your html `<head>`.
 
 #### Web demo
-Check out [example.html](https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts/example.html) to see the fonts being delivered from this repo, or go to [https://checkmyworking.com/cm-web-fonts/]() to get download links and see a customisable demo of the Computer Modern font family.
+Check out [https://checkmyworking.com/cm-web-fonts/]() to get download links and see a customisable demo of the Computer Modern font family.
 
 #### Example Code
 ```html
@@ -35,4 +35,4 @@ The folowing font families are included (with bold and italics):
 Files are served via jsDelivr, an free, open-source CDN supported by companies like CloudFlare. jsDelivr serves ~72 billion requests/month and is has been reliable for me; however, there's no such thing as a free lunch and I cannot guarantee 100% uptime.  Use it at your own risk.
 
 ## Credits
-Repo forked from [@dreampulse](http://www.github.com/dreampulse),  cm-unicode web fonts compiled by [Christian Perfect](http://checkmyworking.com/cm-web-fonts) from the [Computer Modern Unicode fonts](http://cm-unicode.sourceforge.net/) created by Andrey V. Panov. The original Computer Modern fonts were created by Donald Knuth et al. 
+Repo forked from [@dreampulse](http://www.github.com/dreampulse),  cm-unicode web fonts compiled by [Christian Perfect](http://checkmyworking.com) from the [Computer Modern Unicode fonts](http://cm-unicode.sourceforge.net/) created by Andrey V. Panov. The original Computer Modern fonts were created by Donald Knuth et al. 
