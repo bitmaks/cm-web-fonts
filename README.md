@@ -1,16 +1,13 @@
 # Computer Modern Web Fonts
 The Computer Modern Font Family (the default LaTeX font), delivered on the web.
 
-## License 
-The font is licensed under the [SIL Open Font License](../blob/master/LICENSE). The license gives you permission to use them online and redistribute/modify/study them so long as you keep the resulting fonts under the Open Font License. _I'm not a lawyer and I can't give legal advice, so make sure to read the [official OFL FAQs](../blob/master/LICENSE-FAQ.txt)._
-
 ## Usage
 Link this stylesheet: `https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts/fonts.css` in your html `<head>`.
 
-#### Web demo
+### Web demo
 Check out [https://checkmyworking.com/cm-web-fonts/]() to get download links and see a customisable demo of the Computer Modern font family.
 
-#### Example Code
+### Example Code
 ```html
 <head>
   <!-- Other imports... -->
@@ -22,6 +19,8 @@ Check out [https://checkmyworking.com/cm-web-fonts/]() to get download links and
   </style>
 </head>
 ```
+### License 
+The font is licensed under the [SIL Open Font License](../blob/master/LICENSE). The license gives you permission to use them online and redistribute/modify/study them so long as you keep the resulting fonts under the Open Font License. _I'm not a lawyer and I can't give legal advice, so make sure to read the [official OFL FAQs](../blob/master/LICENSE-FAQ.txt)._
 
 ## Fonts
 The folowing font families are included (with bold and italics):
