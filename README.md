@@ -1,37 +1,38 @@
-# computer-modern-web-font
-The Computer Modern LaTeX font for the web
+# Computer Modern Web Fonts
+The Computer Modern Font Family (the default LaTeX font), delivered on the web.
 
-## Example
-Take a look at this [example.html](https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/example.html).
+## License 
+The font is licensed under the [SIL Open Font License](../blob/master/LICENSE). The license gives you permission to use them online and redistribute/modify/study them so long as you keep the resulting fonts under the Open Font License. _I'm not a lawyer and I can't give legal advice, so make sure to read the [official OFL FAQs](../blob/master/LICENSE-FAQ.txt)._
 
 ## Usage
+Link this stylesheet: `https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts/fonts.css` in your html `<head>`.
 
-Insert the `https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css` css-stylesheet into your html header.
+#### Web demo
+Check out [example.html](https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts/example.html) to see the fonts being delivered from this repo, or go to [https://checkmyworking.com/cm-web-fonts/]() to get download links and see a customisable demo of the Computer Modern font family.
 
+#### Example Code
 ```html
 <head>
-  <!-- ... -->
-
-  <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css">
+  <!-- Other imports... -->
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts/fonts.css">
   <style>
     body {
-      font-family: "Computer Modern Sans", sans-serif;
+      font-family: "Computer Modern Serif", serif;
     }
   </style>
 </head>
 ```
 
 ## Fonts
-
-The folowing font-familys are available:
-
+The folowing font families are included (with bold and italics):
 * `'Computer Modern Bright'`
 * `'Computer Modern Concrete'`
 * `'Computer Modern Sans'`
 * `'Computer Modern Serif'`
 * `'Computer Modern Typewriter'`
 
-## Performance
+## Delivery
+Files are served via jsDelivr, an free, open-source CDN supported by companies like CloudFlare. jsDelivr serves ~72 billion requests/month and is has been reliable for me; however, there's no such thing as a free lunch and I cannot guarantee 100% uptime.  Use it at your own risk.
 
-You can use the font for production websites with any amount of traffic. Files are served via MaxCDN's super fast global CDN.
-There is no traffic limits or throttling.
+## Credits
+Repo forked from [@dreampulse](http://www.github.com/dreampulse),  cm-unicode web fonts compiled by [Christian Perfect](http://checkmyworking.com/cm-web-fonts) from the [Computer Modern Unicode fonts](http://cm-unicode.sourceforge.net/) created by Andrey V. Panov. The original Computer Modern fonts were created by Donald Knuth et al. 
