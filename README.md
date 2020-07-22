@@ -20,7 +20,7 @@ Check out [https://checkmyworking.com/cm-web-fonts/]() to get download links and
 </head>
 ```
 ### License 
-The font is licensed under the [SIL Open Font License](../blob/master/LICENSE). The license gives you permission to use them online and redistribute/modify/study them so long as you keep the resulting fonts under the Open Font License. _I'm not a lawyer and I can't give legal advice, so make sure to read the [official OFL FAQs](../blob/master/LICENSE-FAQ.txt)._
+The font is licensed under the [SIL Open Font License](../LICENSE.txt). The license gives you permission to use them online and redistribute/modify/study them so long as you keep the resulting fonts under the Open Font License. _I'm not a lawyer and I can't give legal advice, so make sure to read the [official OFL FAQs](../LICENSE-FAQ.txt)._
 
 ## Fonts
 The folowing font families are included (with bold and italics):
