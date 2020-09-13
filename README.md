@@ -5,7 +5,7 @@ The Computer Modern Font Family (the default LaTeX font), delivered on the web.
 Link this stylesheet: `https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css` in your html `<head>`.
 
 ### Web demo
-Check out [https://checkmyworking.com/cm-web-fonts/]() to get download links and see a customisable demo of the Computer Modern font family.
+Check out [https://checkmyworking.com/cm-web-fonts/]() to get download links and see a customisable demo of the Computer Modern font family. Or visit [https://texblog.akshatbisht.com]() to view a working implementation of a site fetching from this CDN.
 
 ### Example Code
 ```html
@@ -35,3 +35,4 @@ Files are served via jsDelivr, an free, open-source CDN supported by companies l
 
 ## Credits
 Repo forked from [@dreampulse](http://www.github.com/dreampulse),  cm-unicode web fonts compiled by [Christian Perfect](http://checkmyworking.com) from the [Computer Modern Unicode fonts](http://cm-unicode.sourceforge.net/) created by Andrey V. Panov. The original Computer Modern fonts were created by Donald Knuth et al. 
+
