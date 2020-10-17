@@ -4,6 +4,11 @@ The Computer Modern Font Family (the default LaTeX font), delivered on the web.
 ## Usage
 Link this stylesheet: `https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css` in your html `<head>`.
 
+### HTML Code
+```html
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css">
+```
+
 ### Web demo
 Check out [https://checkmyworking.com/cm-web-fonts/]() to get download links and see a customisable demo of the Computer Modern font family. Or visit [TeXBlog](https://texblog.akshatbisht.com) to view a working implementation of a site fetching from this CDN.
 
