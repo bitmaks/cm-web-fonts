@@ -2,11 +2,11 @@
 The Computer Modern Font Family (the default LaTeX font), delivered on the web.
 
 ## Usage
-Link this stylesheet: `https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css` in your html `<head>`.
+Link this stylesheet: `https://cdn.jsdelivr.net/gh/bitmaks/cm-web-fonts@latest/fonts.css` in your html `<head>`.
 
 ### HTML Code
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/bitmaks/cm-web-fonts@latest/fonts.css">
 ```
 
 ### Web demo
@@ -16,7 +16,7 @@ Check out [https://checkmyworking.com/cm-web-fonts/]() to get download links and
 ```html
 <head>
   <!-- Other imports... -->
-  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/bitmaks/cm-web-fonts@latest/fonts.css">
   <style>
     body {
       font-family: "Computer Modern Serif", serif;
